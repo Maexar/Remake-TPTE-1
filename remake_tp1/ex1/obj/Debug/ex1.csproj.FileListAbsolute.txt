@@ -1,0 +1,7 @@
+C:\Users\marlo\source\repos\remake_tp1\ex1\bin\Debug\ex1.exe.config
+C:\Users\marlo\source\repos\remake_tp1\ex1\bin\Debug\ex1.exe
+C:\Users\marlo\source\repos\remake_tp1\ex1\bin\Debug\ex1.pdb
+C:\Users\marlo\source\repos\remake_tp1\ex1\obj\Debug\ex1.csproj.AssemblyReference.cache
+C:\Users\marlo\source\repos\remake_tp1\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+C:\Users\marlo\source\repos\remake_tp1\ex1\obj\Debug\ex1.exe
+C:\Users\marlo\source\repos\remake_tp1\ex1\obj\Debug\ex1.pdb
